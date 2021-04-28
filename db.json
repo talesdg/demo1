@@ -1,0 +1,108 @@
+{
+  "Result": [
+    {
+      "MatchKeys": "doc{XXXXXXXXXX}",
+      "OwnerParticipationData": {
+        "NumberOfOwners": 7,
+        "NumberOfPeopleAsOwners": 7,
+        "NumberOfCompaniesAsOwners": 0,
+        "HasMajorityStakeHolder": false,
+        "AverageParticipationPercentage": 14.285714285714286,
+        "MaxParticipationPercentage": 25,
+        "MinParticipationPercentage": 10,
+        "FirstOwnerEntryDate": "2019-10-10T00:00:00",
+        "LastOwnerEntryDate": "2019-10-10T00:00:00",
+        "QueryDate": "2020-11-23T20:03:32.496082Z",
+        "OwnerParticipations": [
+          {
+            "DocNumber": "XXXXXXXXXXXXX",
+            "EntityName": "XXXXXXXXXXXXXX",
+            "EntityType": "CPF",
+            "EntityTaxIdStatus": "REGULAR",
+            "ParticipationPercentage": 25,
+            "CanSignForCompany": false,
+            "HasDebtIndicator": false,
+            "HasFraudIndicator": false,
+            "EntryDate": "2019-10-10T00:00:00"
+          },
+          {
+            "DocNumber": "XXXXXXXXXXXXX",
+            "EntityName": "XXXXXXXXXXXXX",
+            "EntityType": "CPF",
+            "EntityTaxIdStatus": "REGULAR",
+            "ParticipationPercentage": 20,
+            "CanSignForCompany": false,
+            "HasDebtIndicator": false,
+            "HasFraudIndicator": false,
+            "EntryDate": "2019-10-10T00:00:00"
+          },
+          {
+            "DocNumber": "XXXXXXXXXXXXX",
+            "EntityName": "XXXXXXXXXXXXX",
+            "EntityType": "CPF",
+            "EntityTaxIdStatus": "REGULAR",
+            "ParticipationPercentage": 15,
+            "CanSignForCompany": false,
+            "HasDebtIndicator": false,
+            "HasFraudIndicator": false,
+            "EntryDate": "2019-10-10T00:00:00"
+          },
+          {
+            "DocNumber": "XXXXXXXXXXXXX",
+            "EntityName": "XXXXXXXXXXXXX",
+            "EntityType": "CPF",
+            "EntityTaxIdStatus": "REGULAR",
+            "ParticipationPercentage": 10,
+            "CanSignForCompany": false,
+            "HasDebtIndicator": false,
+            "HasFraudIndicator": false,
+            "EntryDate": "2019-10-10T00:00:00"
+          },
+          {
+            "DocNumber": "XXXXXXXXXXXXX",
+            "EntityName": "XXXXXXXXXXXXX",
+            "EntityType": "CPF",
+            "EntityTaxIdStatus": "REGULAR",
+            "ParticipationPercentage": 10,
+            "CanSignForCompany": true,
+            "HasDebtIndicator": false,
+            "HasFraudIndicator": false,
+            "EntryDate": "2019-10-10T00:00:00"
+          },
+          {
+            "DocNumber": "XXXXXXXXXXXXX",
+            "EntityName": "XXXXXXXXXXXXX",
+            "EntityType": "CPF",
+            "EntityTaxIdStatus": "REGULAR",
+            "ParticipationPercentage": 10,
+            "CanSignForCompany": false,
+            "HasDebtIndicator": false,
+            "HasFraudIndicator": false,
+            "EntryDate": "2019-10-10T00:00:00"
+          },
+          {
+            "DocNumber": "XXXXXXXXXXXXX",
+            "EntityName": "XXXXXXXXXXXXX",
+            "EntityType": "CPF",
+            "EntityTaxIdStatus": "REGULAR",
+            "ParticipationPercentage": 10,
+            "CanSignForCompany": false,
+            "HasDebtIndicator": false,
+            "HasFraudIndicator": false,
+            "EntryDate": "2019-10-10T00:00:00"
+          }
+        ]
+      }
+    }
+  ],
+  "QueryId": "6daec39a-e334-4771-8292-4b805c51e66e",
+  "ElapsedMilliseconds": 6135,
+  "Status": {
+    "ondemand_owner_participation_data": [
+      {
+        "Code": 0,
+        "Message": "OK"
+      }
+    ]
+  }
+}
